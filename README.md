@@ -1,6 +1,6 @@
 # Purpose
 
-This repo is only to meet the minimal requirement to get a swag by creating a Contentful api. I learn how to use Contentful to create this api in 30 minutes.  Good Job Contentful team!!!
+This repo is only to meet the minimal requirement to get a swag by creating a Contentful api. I just learn how to use Contentful ( with no experience ) and to create this api in less than 30 minutes.  Good Job Contentful team to make this easy to use and yet powerful product!!!
 
 ## Installation
 
