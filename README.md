@@ -1,6 +1,6 @@
-# Getting Swag
+# Purpose
 
-Foobar is a Python library for dealing with word pluralization.
+This repo is only to meet to minimal requirement to get a swag. I learn how to use Contentful to create this api in 30 minutes.  Good Job Contentful team!!!
 
 ## Installation
 
@@ -14,11 +14,6 @@ curl --location --request POST 'https://graphql.contentful.com/content/v1/spaces
 --header 'Content-Type: application/json' \
 --data-raw '{"query":"query test($id: String!) {\n    superhero(id:$id) {\n        name\n    }\n}","variables":{"id":"gB6fS7OGN6qpmbFVABDCB"}}'
 ```
-
-## Purpose of this repo
-
-This repo is only to meet to minimal requirement to get a swag. I learn how to use Contentful to create this api in 30 minutes.  Good Job Contentful team!!!
-
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
